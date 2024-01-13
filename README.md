@@ -4,7 +4,8 @@ Main Pages
 - [ ] Homepage
 - [ ] Project Page
 - [ ] Misc. Page
-- [ ] About Page (ongoing, 90%)
+- [ ] About Page (ongoing, 97%)
+  - Bookmarks?
 
 Other Directories
 - [ ] Notes
