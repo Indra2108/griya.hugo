@@ -25,8 +25,8 @@ I wrote this personal website using plain HTML & CSS, except for my bookmarks, w
 
 This site use two fonts, Amiri for arabic letter and Ysabeau for main text.
 
-This personal website design is heavily-inspired by Azlen Elza and Anirudh Oppiliappan.
+This personal website design is heavily-inspired by [Azlen Elza](https://azlen.me/) and [Anirudh Oppiliappan](https://icyphox.sh/).
 
-This site is hosted by Firebase Hosting.
+This site is hosted by [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
-The source of this site is here.
+The source of this site is [here](http://github.com/Indra2108/home).
