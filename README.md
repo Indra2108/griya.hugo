@@ -11,3 +11,8 @@ Other Directories
 - [ ] Bookmark
 - [ ] Links
 
+# History
+
+- `03/07/2023` - Writing this very website using raw HTML and CSS.
+- `14/01/2024` - Rewritting to Hugo.
+
