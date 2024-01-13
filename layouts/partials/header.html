@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} | {{.Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL}}">
+    <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
+    {{ partial "head_custom.html" . }}
+</head>
+
+<body>
+    <div id="container">
+        <header>
+            <nav>
+                <ul class="ininav">
+                    <li><a href="/">home</a></li>
+                    <li><a href="/projects/">projects</a></li>
+                    <li><a href="/misc/">misc</a></li>
+                    <li><a href="/about/">about</a></li>
+                </ul>
+            </nav>
+        </header>
