@@ -1,3 +1,8 @@
+# Why rewritten to Hugo?
+
+- I just wanna focus on content, not the UI.
+- Hugo is the beginner-friendly tools. it has good documentation. and learning the basic templating just about takes +-10min. and lastly, I don't have to learn Golang to start using Hugo.
+
 # Development Status
 
 Main Pages
