@@ -2,3 +2,27 @@ baseURL: "/"
 languageCode: "en-us"
 title: "My New Hugo Site"
 theme: "hugo-xmin"
+
+menu:
+  main:
+    - name: home
+      url: "home.md"
+      weight: 1
+    - name: projects
+      url: "projects.md"
+      weight: 2
+    - name: misc
+      url: "misc.md"
+      weight: 3
+    - name: about
+      url: "about.md"
+      weight: 4
+    - name: postExample
+      url: "posts/"
+      weight: 5
+    - name: Subscribe
+      url: "index.xml"
+
+markup:
+  highlight:
+    codeFences: false
