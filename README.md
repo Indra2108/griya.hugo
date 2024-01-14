@@ -6,9 +6,9 @@
 # Development Status
 
 Main Pages
-- [ ] Homepage
-- [ ] Project Page
-- [ ] Misc. Page
+- [x] Homepage (DONE)
+- [x] Project Page (DONE)
+- [ ] Misc. Page (ongoing, 97%)
 - [ ] About Page (ongoing, 97%)
   - Bookmarks?
 
