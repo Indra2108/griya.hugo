@@ -6,23 +6,24 @@ theme: "hugo-xmin"
 menu:
   main:
     - name: home
-      url: "home.md"
+      url: ""
       weight: 1
     - name: projects
-      url: "projects.md"
+      url: "projects/"
       weight: 2
     - name: misc
-      url: "misc.md"
+      url: "misc/"
       weight: 3
     - name: about
-      url: "about.md"
+      url: "about/"
       weight: 4
-    - name: postExample
-      url: "posts/"
-      weight: 5
-    - name: Subscribe
-      url: "index.xml"
 
 markup:
-  highlight:
-    codeFences: false
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
