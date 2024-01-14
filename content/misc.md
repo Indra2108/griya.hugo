@@ -4,4 +4,4 @@ This page would be my space for my creativity, such as writing, gallery, and the
 
 ## Other Directories
 
-- [`notes/`]() ~ my random notes or thoughts.
+- [**notes/**]() ~ my random notes or thoughts.
